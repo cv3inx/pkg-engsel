@@ -1,0 +1,40 @@
+{
+  "packages": [
+    {
+      "name": "Tiktok 1GB dari Xtra Combo Mini",
+      "status": "Coid",
+      "family_code": "5412b964-474e-42d3-9c86-f5692da627db",
+      "order": 211
+    },
+    {
+      "name": "Youtube 1GB dari Xtra Combo Mini",
+      "status": "Coid",
+      "family_code": "5412b964-474e-42d3-9c86-f5692da627db",
+      "order": 212
+    },
+    {
+      "name": "Whatsapp 1GB dari Xtra Combo Mini",
+      "status": "Coid",
+      "family_code": "5412b964-474e-42d3-9c86-f5692da627db",
+      "order": 210
+    },
+    {
+      "name": "Worry-Free Quota(Prio/Hyfe)",
+      "status": "Test",
+      "family_code": "02378733-eb10-40b0-8d33-74d36795f360",
+      "order": 1
+    },
+    {
+      "name": "Bonus Kuota Utama 15GB",
+      "status": "Coid",
+      "family_code": "8080ddcf-18c5-4d6d-86a4-89eb8ca5f2d1",
+      "order": 52
+    },
+    {
+      "name": "Bonus Kuota Utama 45GB",
+      "status": "Coid",
+      "family_code": "",
+      "order": 
+    }
+  ]
+}
